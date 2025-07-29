@@ -11,7 +11,7 @@ Follow [detailed tutorial](docs/tutorial.md) for training your own models.
 
 ## Acknowledgements
 
-This repo is mainly built on [LightningDiT]((https://github.com/hustvl/LightningDiT)). Thanks for the great work.
+This repo is mainly built on [LightningDiT](https://github.com/hustvl/LightningDiT). Thanks for the great work.
 
 
 ## Citation
