@@ -1,0 +1,1 @@
+bash run_train.sh configs/flashdit_xl_vavae_f16d32.yaml
