@@ -5,7 +5,7 @@
 
 FlashDiT is built on the [Lightning DiT project](https://github.com/hustvl/LightningDiT). Unlike LightningDiT, FlashDiT uses the interleaved window attention from the [Iwin Transformer](https://github.com/Cominder/Iwin-Transformer) and removes the positional encoding. FlashDiT is more training faster than LightningDiT. A more powerful model will be released later.
 
-## 🎮 Train Your Own Models
+## Train Your Own Models
 
 Follow [detailed tutorial](docs/tutorial.md) for training your own models.
 
